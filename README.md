@@ -2,7 +2,7 @@
 
 ## Download iReport
 
-You’ll start downloading Ireport from SourceForge.
+Youâ€™ll start downloading Ireport from SourceForge.
 
 1. Join the jaspersoft community site and download your favorite release saving it as iReport-(release number).zip: 
 	
@@ -28,6 +28,6 @@ Build the docker image from the Dockerfile.
 
 ## Create and Run the container
 
-Next, you’ll add create the container .
+Next, youâ€™ll add create the container .
 
 1. Execute the shell script **$ bash ireport.sh**.
